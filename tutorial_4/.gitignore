@@ -5,4 +5,5 @@ project-info.json
 aws-exports.*
 awsmobilejs/.awsmobile/backend-build
 awsmobilejs/\#current-backend-info
-~awsmobilejs-*/
+~awsmobilejs-*/# node.js
+node_modules/
